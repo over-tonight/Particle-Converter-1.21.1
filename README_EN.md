@@ -10,7 +10,7 @@ Particle Converter is an application to convert image files into particle comman
  <img src="https://imgur.com/hdSbSkc.jpg" alt="screenshot2" />
  </div></details>  
 
-## Feature
+## Features
 * Convert the image file (.jpg|.png) into a particle command that can be displayed in Minecraft and output as a mcfunction format
 * Correspond to world relative coordinates(~) and local relative coordinates(^).
 * Real-time preview of parameter changes.
@@ -19,11 +19,12 @@ Particle Converter is an application to convert image files into particle comman
 * Supports the color specification of dust.
 * Compatible with particles other than dust.
 * Multi-language support for the app.
+* Support for 1.21.1+
 
 Translated with www.DeepL.com/Translator (free version)
 
 ## Downloads
- [Particle-Converter/Release](https://github.com/kemo14331/Particle-Converter/releases/latest)
+ [Particle-Converter-1.21.1/Release](https://github.com/Maven-png/Particle-Converter-1.21.1/releases/latest)
  
 ## Requirement
  
