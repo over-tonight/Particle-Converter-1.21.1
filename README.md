@@ -1,4 +1,4 @@
-**日本語** / [English](https://github.com/kemo14331/Particle-Converter/blob/main/README_EN.md)
+**日本語** / [English](https://github.com/Maven-png/Particle-Converter-1.21.1/blob/main/README_EN.md)
 # Particle Converter 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kemo14331/Particle-Converter)  [![GitHub license](https://img.shields.io/github/license/kemo14331/Particle-Converter)](https://github.com/kemo14331/Particle-Converter/blob/main/LICENSE)  
 画像ファイルをmcfunctionに変換するツール
@@ -22,7 +22,7 @@
 * アプリの多言語対応
 
 ## Downloads
- [Particle-Converter/Release](https://github.com/kemo14331/Particle-Converter/releases/latest)
+ [Particle-Converter-1.21.1/Release](https://github.com/Maven-png/Particle-Converter-1.21.1/releases/latest)
  
 ## Requirement
  
