@@ -5,13 +5,13 @@ Particle Converter is an application to convert image files into particle comman
 ## ScreenShot
  ![screenshot0](https://imgur.com/HvnhBgF.jpg,"screenshot")
  <details>
- <summary>and more</summary><div>  
+ <summary>More</summary><div>  
  <img src="https://imgur.com/Ld544Cx.jpg", "screenshot1">
  <img src="https://imgur.com/hdSbSkc.jpg" alt="screenshot2" />
  </div></details>  
 
 ## Features
-* Convert the image file (.jpg|.png) into a particle command that can be displayed in Minecraft and output as a mcfunction format
+* Convert a image (.jpg|.png) into a particle command that can be displayed in Minecraft and outputted into a mcfunction format.
 * Correspond to world relative coordinates(~) and local relative coordinates(^).
 * Real-time preview of parameter changes.
 * Display size can be specified by block.
